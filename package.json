@@ -1,0 +1,13 @@
+{
+  "name": "node-mongo-user-api",
+  "version": "1.0.0",
+  "description": "Simple API to fetch user by ID with age filter > 21",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.8.0"
+  }
+}
